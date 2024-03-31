@@ -1,2 +1,2 @@
 # internpe-task-1
-making simple calculator using html,css,js
+making a simple responsive calculator using html,css,js
