@@ -1,3 +1,4 @@
+
 * {
     padding: 0;
     margin: 0;
@@ -137,10 +138,9 @@
     background-color: #566246;
   }
   
-  /* Add your existing CSS styles for the calculator */
+  
   
   /* Media Queries for responsive layout */
-  /* Adjust the layout for smaller screens */
   @media screen and (max-width: 480px) {
     .buttons table {
       width: 100%;
@@ -153,7 +153,7 @@
     }
   }
   
-  /* Adjust font size for smaller screens */
+  /* Adjusting font size for smaller screens */
   @media screen and (max-width: 360px) {
     .display-screen {
       font-size: 18px;
